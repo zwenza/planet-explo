@@ -1,16 +1,13 @@
 import React, { Component } from 'react';
-import styled from 'styled-components';
 
-const Test = styled.button`
- color: blue;
-`
+import Earth from './planets/Earth';
 
 class App extends Component {
   render() {
     return (
       <div>
-        Test
-        <Test>Hi</Test>
+        Planet Exploration
+        <Earth/>
       </div>
     );
   }
