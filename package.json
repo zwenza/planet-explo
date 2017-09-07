@@ -15,6 +15,7 @@
     "eject": "react-scripts eject"
   },
   "now": {
-    "alias": "plant-explo"
+    "name": "planet-exploration",
+    "alias": "planet-exploration.now.sh"
   }
 }
